@@ -57,4 +57,4 @@ Here, the parameter key is **`exp_date`**.
 ### Example Configuration:
 Below is an example of how your product's server configuration page should look:
 
-![Product Server Config](https://raw.githubusercontent.com/UG88/Paymenter/main/expiry_date_Pterodactyl/screenshot.png)
+![Product Server Config](https://raw.githubusercontent.com/UG88/Paymenter/main/Screenshot%202026-07-10%20134920.png)
