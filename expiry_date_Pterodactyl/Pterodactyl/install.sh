@@ -37,7 +37,7 @@ cp "$EXTENSION_PATH" "$EXTENSION_PATH.bak"
 
 # Download patched version from repository
 # NOTE: Once uploaded to GitHub, update the URL below to point to your repository's raw URL!
-DOWNLOAD_URL="https://raw.githubusercontent.com/UNTILGHAMER/Pterodactyl-Server-Expiry/main/paymenter-extension/Pterodactyl/Pterodactyl.php"
+DOWNLOAD_URL="https://raw.githubusercontent.com/UG88/Paymenter/main/expiry_date_Pterodactyl/Pterodactyl/Pterodactyl.php"
 
 echo "Downloading patched extension file..."
 curl -sS -o "$EXTENSION_PATH" "$DOWNLOAD_URL"
